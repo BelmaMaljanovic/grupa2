@@ -1,5 +1,10 @@
-import { useState } from "react";
+import React from "react";
 
-function App() {
-    
+
+function Stranica() {
+    return (
+  <h1>Tea</h1>
+    );
 }
+
+export default Stranica;
