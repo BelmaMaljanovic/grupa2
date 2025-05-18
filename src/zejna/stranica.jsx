@@ -1,2 +1,9 @@
-<p>Ime: Zejna</p>
-<p> Prezime: Mahmutovic </p>
+function Zejna() {
+
+  return (
+    <>
+      <div>Zdravo ja sam Zejna </div>
+    </>
+  )
+}
+export default Zejna
