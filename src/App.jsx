@@ -1,4 +1,7 @@
 
+import Stranica from './avdoo/strana'
+import Haris from './Haris'
+
 import Alija from './Alija/alijamsm'
 import './App.css'
 
@@ -10,7 +13,8 @@ import './App.css'
 
 
 
-import Stranica from './avdoo/strana'
+
+
 
 function App() {
 
@@ -21,6 +25,8 @@ function App() {
 
 
       <Stranica />
+
+      <Haris/>
 
     </>
   )
