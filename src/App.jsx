@@ -1,13 +1,20 @@
-import React from 'react'
-import Alija from './Alija/Alija'
+import Alija from './Alija/alijamsm'
+import './App.css'
+
+
+
+  
+  
+   
 
 
 function App() {
+
   return (
     <>
-      <Alija/>
+      <Alija />
+
     </>
   )
 }
-
 export default App
